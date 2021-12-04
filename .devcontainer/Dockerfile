@@ -1,4 +1,5 @@
-FROM mcr.microsoft.com/dotnet/sdk:5.0.403
+FROM mcr.microsoft.com/dotnet/sdk:5.0.102
+# FROM mcr.microsoft.com/dotnet/sdk:5.0.403
 # FROM mcr.microsoft.com/dotnet/sdk:6.0.100
 # Version last checked on 28 Nov 2021
 # More recent images may be available at https://hub.docker.com/_/microsoft-dotnet-sdk/
